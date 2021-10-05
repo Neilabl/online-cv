@@ -2,190 +2,226 @@
 # Be aware that even a small syntax error here can lead to failures in output.
 #
 
-sidebar:
-    about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+sidebar: 
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
+    name: Dr. Neila Ben Lakhal
+    tagline: Assistant Professor in Computer Science
     avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: neila.benlakhal@gmail.com neila.benlakhal@enicarthage.rnu.tn
+    phone:  +216 21 44 46 60 
+    Mobile:  +974 55 66 47 14
+    website: neilabl.github.io #do not add http://
+    linkedin: neilabenlakhal
+    xing: 
+    github: neilabenlakhal
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
-    twitter: '@webjeda'
+    twitter: '@neilalakhal'
     stack-overflow: # Number/Username, e.g. 123456/alandoe
     codewars:
     goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    pdf: CVDR.NeilaBenLakhal2021-10.pdf
 
     languages:
-      - idiom: English
+      - idiom: Arabic
         level: Native
 
       - idiom: French
+        level: Native
+
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
-
+      - idiom: Japanese
+        level: Conversational
+        
     interests:
-      - item: Climbing
+      - item: Traveling
         link:
 
-      - item: Snowboarding
+      - item: Swimming
         link:
 
-      - item: Cooking
+      - item: Reading anatomy books
         link:
 
 career-profile:
     title: Career Profile
-    summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+    summary: Self-motivated proactive assistant professor, with excellent teaching and university management track records, having more than 10 years of higher education experience. Very caring with strong communication skills, able to easily build trusting relationships with students, colleagues and university staff members. Consistently striving to motivate others and inspire them to pursue academic and personal excellence, looking for new academic opportunities.
+
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Ph.D. in Computer Science
+      university: <a href="https://www.titech.ac.jp/english" > Tokyo Institute of Technology, JAPAN</a>
+      time: 04.2004 ~ 03.2007
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+        Dissertation: A framework for modelling executing and analysing dependable transactional Web services compositions.
+        - Keywords: Web services · Service oriented computing · Data engineering · Dependability · Transaction model.
+        - Financial support: The Japanese government
+
+    - degree: M.Eng. in Computer Science
+      university: <a href="https://www.titech.ac.jp/english" > Tokyo Institute of Technology, JAPAN</a>
+      time: 04.2002 ~ 03.2004
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Master Thesis:  Research on failure handling in distributed workflow management systems for Web services context. 
+    
+    - degree: Master degree (hons) in Computer Science
+      university: ISG Tunis, TUNISIA
+      time: 09.1996 ~ 06.2000
+      
 experiences:
-    - role: Lead Developer
-      time: 2015 - Present
-      company: Startup Hubs, San Francisco
+    - role: Assistant professor,  
+      time: 09.2009 ~ Present
+      company: Computer Engineering Department, National School of Engineering of Carthage (ENICARTHAGE). TUNISIA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-        enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-        error sit voluptatem accusantium doloremque laudantium, totam rem
-        aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo.
-          - Bullet point
-          - Bullet point
-    - role: Senior Software Engineer
-      time: 2014 - 2015
-      company: Google, London
+        - Teaching and examining undergraduate and Master level students.
+        - Facilitating computer lab and designing appropriate and specialized lesson plans.
+        - Developing and actively contributing to the review of courses in accordance with department strategies.
+        - Contributing to the monitoring and enhancement of quality in teaching within the department.
+        - Acting as personal adviser to newly recruited lecturers.
+        - Supervising part-time lecturers, including organizing and delegating work, providing training and guidance.
+        - Actively contributing to departmental teaching administration.
+        - Actively contributing to the intellectual life of the department by attending and participating in departmental meetings.
+        - Participating in departmental hiring searches and making shortlisting recommendations for new members of academic staff.
+        - Resolving issues concerning program development, student examinations etc.
+        - Challenging and motivating students through in-depth lectures discussions.
+        - Creating material of courses websites to provide students with updated resources. 
+        - Given lectures
+            - (2009-2010) Web development, SOA and Web services.
+            - (2010-2011) Web development, SOA and Web services.
+            - (2011-2012) Web development, Web applications programming.
+            - (2012-2013) Web technologies, Web information systems, Web Apps, advanced SOA. 
+            - (2013-2014) Web technologies, Web information systems, Web Apps, advanced SOA. 
+            - (2014-2015) Web programming, advanced SOA.
+            - (2015-2016) Web programming, advanced SOA.
+            - (2016-2017) Web Programming, SOA and Web services.
+            - (2017-2018) Advanced SOA and Web services, Microservices architecture (MSA), Advanced Web programming.
+            - (2018-2019) Advanced SOC (service-oriented computing), MSA, REST-based service, Web technologies.
+            - (2010-2020) Sabbatical leave.
+            - (2020-2021) Advanced SOC, Microservices architecture, REST-based service, Web technologies.
+            - (2021-2022) Advanced SOC, Microservices architecture, REST-based service, Web technologies.
+
+    - role: Dean of Graduate studies
+      time: 09.2014 ~ 09.2016
+      company: Science and Technology Department - Time Higher School, TUNISIA
+      Managed faculty staff: 120 teaching assistant and visiting professors
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+        - Faculty member selection and recruitment process.
+        - Faculty member technical skills evaluation and coaching.
+        - Recruit, lead and manage teaching and administrative staff within the faculty.
+        - Ensure they are supported enough to achieve their potential. 
+        - Engage with employers and schools on the relevance of programme content.
+        - Oversee the development and implementation of the Faculty’s agenda.
+        - Actively engage in revamping the graduate courses (computer science and engineering) programs and curricula.
+        - Graduate course programs preparation, update and accreditation process with the ministry.
+        - Prepare annual and mid-term academic plan in coordination with the director of the university.
+        - Supervise and monitor undergraduate and graduate programs, enforce rules and their compliances with established procedures.
+        - Oversee the possibilities of the implementation of Faculty’s international activities.
+        - Promote and represent the faculty and its academic areas nationally and internationally.
+        - Confer with educators to identify current classroom concerns and diversify instructional strategies.
+    - role: Head of the Department of computer engineering  
+      time: 09.2011 ~ 08.2014
+      company: Science and Technology Department -Time Higher School, TUNISIA
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-          - Bullet point
-          - Bullet point
-projects:
-    title: Projects
-    intro: >
-      You can list your side projects or open source libraries in this
-      section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-      Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
-    assignments:
-      - title: Velocity
-        link: "#hook"
-        tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: DevStudio
-        link: "#"
-        tagline: "A responsive website template designed to help web developers/designers market their services."
+    - role: Adjunct Professor  
+      time: 09.2011 ~ 06.2016
+      company: Science and Technology Department -Time Higher School, TUNISIA
+      GIVEN LECTURE: |
+        - (2011-2012) Web development, business process modelling, workflow systems and SOA, Web portals. 
+        - (2012-2013) Web development, business process modelling, workflow systems and SOA, Web portals.  - (2013-2014) Web technologies, business process modelling, workflow systems and SOA.
+        - (2014-2015) Web technologies, business process modelling, SOA.
+        - (2015-2016) Web programming, SOA.
+ 
+    - role: Adjunct Lecturer  
+      time: 01.2009 ~ 08.2009
+      company: At The Faculty of Political Science, TUNISIA
+      GIVEN LECTURE: |
+        - (2009) Computer Applications.
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+    - role: Research Fellow  
+      time: 04.2004 ~ 03.2007
+      company: Japan Science and Technology Agency, JAPAN 
+      details: 
+   
+    - role: Student Mentor  
+      time: 04.2002 ~ 03.2007
+      company: Tokyo Institute of Technology, Data Engineering & Parallel Processing Lab, JAPAN 
+      details: |   
+# projects:
+#     title: Projects
+#     intro: >
+#       You can list your side projects or open source libraries in this
+#       section. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+#       Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+#     assignments:
+#       - title: Velocity
+#         link: "#hook"
+#         tagline: "A responsive website template designed to help startups promote, market and sell their products."
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+#       - title: DevStudio
+#         link: "#"
+#         tagline: "A responsive website template designed to help web developers/designers market their services."
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+#       - title: Tempo
+#         link: "#"
+#         tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
 
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-    papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+#       - title: Atom
+#         link: "#"
+#         tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#       - title: Delta
+#         link: "#"
+#         tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
+# publications:
+#     title: Publications
+#     intro: |
+#       You can list your publications in this section. Lorem ipsum dolor sit
+#       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#       bibendum fringilla a eu lectus.
+#     papers:
+#       - title: The Art of Computer Programming
+#         link: "#"
+#         authors: Donald E. Knuth
+#         conference: Addison-Wesley, 1968
+
+#       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#         link: "#"
+#         authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#         conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+
+#       - title: A syntax directed compiler for Algol 60
+#         link: "#"
+#         authors: Edgar T. Irons
+#         conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
+      - name:  software architectures (SOA, MSA)
         level: 98%
 
-      - name: Javascript & jQuery
+      - name: REST & SOAP Web services, WS-* standards
         level: 98%
 
-      - name: Angular
+      - name: Microservices, Containerized MS,  Docker
         level: 98%
 
-      - name: HTML5 & CSS
-        level: 95%
+      - name: PhP, HTML, CSS, JavaScript, JAVA, AJAX, XML
+        level: 99%
 
-      - name: Ruby on Rails
+      - name: Dependable computing and distributed computing
         level: 85%
 
-      - name: Sketch & Photoshop
+      - name: Software modelling, UML, DevOps, Agile, unified process
         level: 60%
 
 footer: >
